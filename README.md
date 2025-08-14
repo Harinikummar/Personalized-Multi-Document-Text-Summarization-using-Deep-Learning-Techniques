@@ -26,3 +26,8 @@ The platform is built with **Flask** and features a secure **JSON-based authenti
 - **Backend:** Flask (Python)
 - **Storage:** JSON-based user data management
 - **AI Model:** GPT-4O for summarization
+
+**Screenshots**:
+<img width="1851" height="810" alt="Screenshot 2025-03-14 150338" src="https://github.com/user-attachments/assets/aa748871-c0fd-4987-ba83-d3b33826ca18" />
+<img width="530" height="808" alt="Screenshot 2025-03-14 150226" src="https://github.com/user-attachments/assets/1e629049-11d6-4ab0-a289-bcbb02eb4705" />
+<img width="1867" height="828" alt="Screenshot 2025-03-14 150138" src="https://github.com/user-attachments/assets/1134668b-d22e-41d5-b558-45e2af236cea" />
